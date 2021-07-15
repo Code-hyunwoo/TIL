@@ -184,8 +184,6 @@ Github에서 받는걸 *<u>pull</u>*이라고 표현함.
 
 ###     :heart_eyes:   **<u>작업 흐름 예시</u>**
 
-  
-
 1. 파일 생성 or 파일 작업
 
 2.  git status 로 상태확인
