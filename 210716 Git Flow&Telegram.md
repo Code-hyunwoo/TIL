@@ -516,7 +516,7 @@ git commit -m "day4"
 
 1. git stash    임시 저장소에 잠시 저장
 2. git checkout login  브랜치를 옮겨서 
-3. git stash apply   저장했던거 다시 붙이기~
+3. git stash apply   저장했던거 다시 붙이기~!
 
 
 
