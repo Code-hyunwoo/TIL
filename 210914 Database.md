@@ -166,3 +166,4 @@ GROUP BY conut sum 이런거.
 
 ORM OR쓸 때 Q쓰는거
 
+​						
