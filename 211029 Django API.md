@@ -40,4 +40,4 @@ rest_framework
 
 juke > models.py 에서 모델링 시작
 
-​										
+​													
